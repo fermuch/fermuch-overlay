@@ -12,7 +12,7 @@ EGIT_REPO_URI="git://github.com/TingPing/hexchat-otr"
 
 LICENSE="GPL-2"
 SLOT="0"
-KEYWORDS="amd64 x86"
+KEYWORDS="~amd64 ~x86"
 IUSE="debug"
 
 RDEPEND="net-libs/libotr
