@@ -7,7 +7,6 @@ MY_PV=${PV}
 inherit distutils-r1 eutils
 DESCRIPTION="Client/server to synchronize watching movies on mplayer/mpc on many computers."
 HOMEPAGE="https://github.com/Syncplay/syncplay"
-         https://github.com/Syncplay/${PN}/archive/${MY_PV}.tar.gz
 SRC_URI="https://github.com/Syncplay/${PN}/archive/${MY_PV}.tar.gz -> ${P}.tar.gz"
 LICENSE=""
 SLOT="0"
